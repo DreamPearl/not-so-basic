@@ -9,8 +9,8 @@ Space complexity: O(n)
 #include <map>
 using namespace std;
 
-map<int,int> memory;
-int fib(int n){
+map<int,long> memory;
+long fib(int n){
     if(memory.count(n)!=0)
         return memory[n];
     if(n==0)
