@@ -1,3 +1,3 @@
 # COOL-MISC-STUFF
 
-1. [Dynamic Programming](DreamPearl/cool-misc-stuff/dynamic_programming)
+1. [Dynamic Programming](https://github.com/DreamPearl/cool-misc-stuff/tree/main/dynamic_programming)
