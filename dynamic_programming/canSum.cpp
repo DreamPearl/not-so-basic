@@ -11,6 +11,7 @@ You may use an element of the array as many times as needed.
 
 You may assume that all input numbers are nonnegative.
 
+(Memoization method)
 m = Target sum
 n = Array length
 Time Complexity: O(n*m)
@@ -54,4 +55,5 @@ int main(){
     }
     bool result = canSum(targetSum,numbers);
     cout << result << endl;
+    return 0;
 }

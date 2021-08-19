@@ -29,4 +29,5 @@ int main(){
     cin >> m >> n;
     int num_of_ways = gridTraveler(m,n);
     cout << num_of_ways << endl;
+    return 0;
 }
