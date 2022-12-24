@@ -1,3 +1,5 @@
+package sort;
+
 public class InsertionSort {
     public static void insertionSort(int arr[]) {
         for(int i=1;i<arr.length;i++) {
