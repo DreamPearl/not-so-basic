@@ -1,6 +1,6 @@
-# STEPPING-UP-THE-LADDER
+# BASICS-BUT-NOT-SO-BASIC
 
-1. [Cpp](https://github.com/DreamPearl/stepping-up-the-ladder/tree/main/cpp)
-2. [Dynamic Programming](https://github.com/DreamPearl/stepping-up-the-ladder/tree/main/dynamic_programming)
-3. [Java](https://github.com/DreamPearl/stepping-up-the-ladder/tree/main/java)  
-    a. [Sort](https://github.com/DreamPearl/stepping-up-the-ladder/tree/main/java/sort)
+1. [CPP](https://github.com/DreamPearl/not-so-basic/tree/main/cpp)
+2. [Java](https://github.com/DreamPearl/not-so-basic/tree/main/java)  
+    a. [Sorting](https://github.com/DreamPearl/not-so-basic/tree/main/java/sort)
+3. [DynamicProgramming/Memoization](https://github.com/DreamPearl/not-so-basic/tree/main/so-dynamic)
